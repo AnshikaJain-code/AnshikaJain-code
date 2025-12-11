@@ -1,11 +1,11 @@
 # ✨Hi,👋 I'm Anshika
 **I'm a passionate Frontend Developer || C++ Programmer || MERN Stack Learner || Open-Source Enthusiast**
 
-Email me 👉📧 **anshikajain1924@gmail.com** for collabration/project.
+Email me 👉📧 **anshikajain1924@gmail.com** for collaboration/project.
 
 - 🌱 **Currently learning Advanced JavaScript, Backend & DSA in C++**
 - 👯 **Open to collaborate on Open Source, Web Projects & Hackathons**
-- 💬 **Ask me about HTML, CSS, Tailwind, JavaScript, C++, Git/GitHub**
+- 💬 **Ask me about HTML, CSS, Tailwind CSS, JavaScript, C++, Git/GitHub**
 - 🔭 **Actively preparing for GSSoC / Open Source 2025**
 - ⚡ **Fun fact: I love turning ideas into working projects quickly!**
 
