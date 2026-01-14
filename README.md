@@ -5,8 +5,8 @@ Email me 👉📧 **anshikajain1924@gmail.com** for collaboration/project.
 
 - 🌱 **Currently learning Advanced JavaScript, Backend & DSA in C++**
 - 👯 **Open to collaborate on Open Source, Web Projects & Hackathons**
-- 💬 **Ask me about HTML, CSS, Tailwind CSS, JavaScript, C++, Git/GitHub**
-- 🔭 **Actively preparing for GSSoC / Open Source 2025**
+- 💬 **Ask me about HTML, CSS, Tailwind CSS, JavaScript, NodeJS, C++, Git/GitHub**
+- 🔭 **Actively preparing for GSSoC / Open Source 2026**
 - ⚡ **Fun fact: I love turning ideas into working projects quickly!**
 
 
